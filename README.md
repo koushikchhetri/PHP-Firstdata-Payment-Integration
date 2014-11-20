@@ -1,4 +1,4 @@
-First Data Global Gateway PHP API Service
+First Data Global Gateway PHP API
 =========
 If you have any confusion leave a <a href='mailto:mail@koushikchhetri.com' target='_blank'>message</a>
 Payment Integration Firstdata
